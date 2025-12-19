@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://a1.apk-api.com/api/channel/4
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://a1.apk-api.com/api/channel/24
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://a1.apk-api.com/api/channel/44
