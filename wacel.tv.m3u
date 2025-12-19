@@ -1,3 +1,7 @@
 #EXTINF:-1 group-title="wacel.tv" tvg-logo="https://jdwel.com/image/teams/5168.png", wacel
 https://qanat1.site/upload/images/logo8.zip
+#EXTINF:-1 group-title="wacel.tv" tvg-logo="https://jdwel.com/image/teams/5168.png", 144
+https://a1.apk-api.com/api/channel/44
 
+#EXTINF:-1 group-title="wacel.tv", 720
+https://a1.apk-api.com/api/channel/4
