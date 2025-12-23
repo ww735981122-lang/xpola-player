@@ -5,3 +5,5 @@ https://a1.apk-api.com/api/channel/44
 
 #EXTINF:-1 group-title="wacel.tv", 720
 https://a1.apk-api.com/api/channel/4
+#EXTINF:-1, admin
+http://205.237.107.58/live/90040798278941/90040798278941/432901.m3u8
