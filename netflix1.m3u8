@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+http://masrawy.nvpro.tv:80/live/manar/manar2023/923.m3u8
